@@ -356,7 +356,8 @@ GEM
       thor (>= 0.14, < 2.0)
     json (1.8.6)
     kgio (2.11.0)
-    kramdown (1.13.2)
+    kramdown (2.3.0)
+      rexml
     librato-metrics (1.6.1)
       aggregate (~> 0.2.2)
       faraday (~> 0.7)
@@ -480,6 +481,7 @@ GEM
       netrc (~> 0.8)
     reverse_markdown (1.0.3)
       nokogiri
+    rexml (3.2.4)
     rmagick (2.16.0)
     ruby_dep (1.5.0)
     rubyzip (1.1.0)
