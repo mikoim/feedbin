@@ -45,7 +45,7 @@ gem 'sass-rails'
 gem 'coffee-rails'
 gem 'uglifier'
 gem 'autoprefixer-rails'
-gem 'rubyzip', '= 1.1.0'
+gem 'rubyzip', '2.3.0'
 
 gem 'activerecord-import', '>= 0.4.1'
 gem 'redis'
